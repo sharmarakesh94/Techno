@@ -1788,7 +1788,7 @@ display: block;
         display: flex;
         justify-content: space-between;
         align-items: center;
-        /* padding: 20px; */
+        padding: 20px;
         background: #f9f9f9;
         
       }
